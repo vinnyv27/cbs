@@ -1,5 +1,5 @@
 # Tacos
 
 - Go to Taco Bell
-- Buy Tacos
+- Buy 20 Tacos
 - Enjoy
